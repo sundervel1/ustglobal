@@ -1,0 +1,30 @@
+24 Jun 2021 17:55:11,367 INFO main com.ust.dao.EmployeeDaoImpl - Employee [id=0, name=Utkarsh, mobile=9008070605, designation=Manager]
+24 Jun 2021 17:55:12,013 INFO main com.ust.dao.EmployeeDaoImpl - id: 10002
+24 Jun 2021 17:59:43,092 INFO main com.ust.dao.EmployeeDaoImpl - All employees
+ getAllEmployees24 Jun 2021 18:01:10,447 INFO main com.ust.dao.EmployeeDaoImpl createEmp - Employee [id=0, name=Christy, mobile=9001122334, designation=Lead]
+ 24 Jun 2021 18:01:11,061 INFO main com.ust.dao.EmployeeDaoImpl createEmp - id: 10002
+ 25 Jun 2021 09:29:48,545 INFO main com.ust.dao.EmployeeDaoImpl createEmp - Employee [id=0, name=Rakhee, mobile=8901234555, designation=Developer]
+ 25 Jun 2021 09:29:49,355 INFO main com.ust.dao.EmployeeDaoImpl createEmp - id: 10002
+ 25 Jun 2021 09:30:04,273 INFO main com.ust.dao.EmployeeDaoImpl getEmployee - id: 10006
+ 25 Jun 2021 09:30:20,098 INFO main com.ust.dao.EmployeeDaoImpl updateEmp - Employee [id=10006, name=Rakhee, mobile=7008912345, designation=Manager]
+ 25 Jun 2021 09:30:28,117 INFO main com.ust.dao.EmployeeDaoImpl getAllEmployees - All employees
+ 25 Jun 2021 09:51:57,981 INFO main com.ust.dao.EmployeeDaoImpl createEmp - Employee [id=0, name=Sufna, mobile=9066554499, designation=Developer]
+ 25 Jun 2021 09:51:58,564 INFO main com.ust.dao.EmployeeDaoImpl createEmp - id: 10002
+ 25 Jun 2021 09:52:15,990 INFO main com.ust.dao.EmployeeDaoImpl getAllEmployees - All employees
+ 25 Jun 2021 09:52:29,139 INFO main com.ust.dao.EmployeeDaoImpl getEmployee - id: 10007
+ 25 Jun 2021 09:52:43,603 INFO main com.ust.dao.EmployeeDaoImpl updateEmp - Employee [id=10007, name=Sufna, mobile=9011554433, designation=Lead]
+ 25 Jun 2021 09:52:55,566 INFO main com.ust.dao.EmployeeDaoImpl getAllEmployees - All employees
+ 25 Jun 2021 09:53:08,775 INFO main com.ust.dao.EmployeeDaoImpl deleteEmployee - id: 10007
+ 25 Jun 2021 09:53:08,775 INFO main com.ust.dao.EmployeeDaoImpl getEmployee - id: 10007
+ 25 Jun 2021 09:53:15,230 INFO main com.ust.dao.EmployeeDaoImpl getAllEmployees - All employees
+ 25 Jun 2021 09:56:26,791 INFO main com.ust.dao.EmployeeDaoImpl getAllEmployees - All employees
+ 25 Jun 2021 09:56:27,360 ERROR main com.ust.util.DBUtil getConnection - java.sql.SQLSyntaxErrorException: Unknown database 'ustx'
+ 25 Jun 2021 10:13:56,380 INFO main com.ust.dao.EmployeeDaoImpl getEmployee - id: 10001
+ 25 Jun 2021 10:13:57,059 INFO main com.ust.dao.EmployeeDaoImpl createEmp - Employee [id=0, name=Ajay, mobile=9019283744, designation=Manager]
+ 25 Jun 2021 10:13:57,062 INFO main com.ust.dao.EmployeeDaoImpl createEmp - id: 10002
+ 25 Jun 2021 10:16:18,251 INFO main com.ust.dao.EmployeeDaoImpl getEmployee - id: 10001
+ 25 Jun 2021 10:16:18,871 INFO main com.ust.dao.EmployeeDaoImpl createEmp - Employee [id=0, name=Ajay, mobile=9019283744, designation=Manager]
+ 25 Jun 2021 10:16:18,873 INFO main com.ust.dao.EmployeeDaoImpl createEmp - id: 10002
+ 25 Jun 2021 10:18:27,581 INFO main com.ust.dao.EmployeeDaoImpl getEmployee - id: 10001
+ 25 Jun 2021 10:18:28,194 INFO main com.ust.dao.EmployeeDaoImpl createEmp - Employee [id=0, name=Ajay, mobile=9019283744, designation=Manager]
+ 
